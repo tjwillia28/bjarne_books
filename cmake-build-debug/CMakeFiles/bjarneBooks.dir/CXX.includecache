@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ty/CLionProjects/bjarneBooks/progPrinPrac/ch4/exercise8.cpp
+iostream
+-
+cmath
+-
+vector
+-
+

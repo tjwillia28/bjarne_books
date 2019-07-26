@@ -1,0 +1,3 @@
+/Users/ty/CLionProjects/bjarneBooks/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ty/CLionProjects/bjarneBooks/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ty/CLionProjects/bjarneBooks/cmake-build-debug/CMakeFiles/bjarneBooks.dir
